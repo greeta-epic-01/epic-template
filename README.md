@@ -1,1 +1,1 @@
-# epic-template
+# chassis-template
